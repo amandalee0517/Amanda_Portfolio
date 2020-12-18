@@ -17,3 +17,10 @@
 **Overview**
 - Analysing stock data related to a few car companies.
 - Practing and applying some python package such as matplotlib, pandas and numpy for some basic financial analysis.
+
+
+## [Project 3: SQL Mahjong Databased Designed](https://github.com/amandalee0517/SQL-Databased-Designed-Mahjong)
+**Overview** 
+- Presents data modeling and database concepts from the systems analyst’s and system developer’s points of view.
+- conversion of a semantic data model into an implementation data model and perform the mapping from an Entity-Relationship model and Semantic Object model to a relational data model
+- Implement and query a relational database using SQL
