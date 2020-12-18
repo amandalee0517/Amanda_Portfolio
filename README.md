@@ -15,7 +15,7 @@
 -	Interpreted the data with variety of insights and provided future plan for the market.
 
 
-## [Project 2: Stock Market Analysis Project](https://github.com/amandalee0517/Stock-Market-Analysis-Project)
+## [Project 2: Stock Market Analysis Project](https://amandalee0517.github.io/Stock-Market-Analysis-Project/)
 **Overview**
 - Analysing stock data related to a few car companies.
 - Practing and applying some python package such as matplotlib, pandas and numpy for some basic financial analysis.
